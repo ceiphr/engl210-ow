@@ -1,0 +1,30 @@
+.navbar-menu {
+    flex-grow: 1;
+    flex-shrink: 0;
+    box-shadow: none;
+}
+.navbar, .navbar-end, .navbar-menu, .navbar-start {
+    align-items: stretch;
+    display: flex;
+}
+
+.image {
+  width: 64px;
+}
+
+img {
+  border-radius: 4px;
+}
+
+.box {
+  margin-left: 1em;
+  margin-top: 1em;
+}
+
+.media {
+  border-top-width: 0px !important;
+}
+
+.hero {
+    margin-top: 52px;
+}
