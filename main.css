@@ -9,7 +9,12 @@
 }
 
 .image {
-  width: 64px;
+  width: 72px;
+}
+
+.profile-picture {
+  width: 156px;
+  margin-right: 1em;
 }
 
 img {
